@@ -1,3 +1,5 @@
+//Boyer–Moore Voting Algorithm
+
 package Leetcode;
 
 class Solution {
