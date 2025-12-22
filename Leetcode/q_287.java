@@ -11,5 +11,6 @@ public class q_287 {
                 return num;
             }
         }
+        return -1;
     }
 }
