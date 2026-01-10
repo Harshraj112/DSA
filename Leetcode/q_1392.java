@@ -24,4 +24,5 @@ public class q_1392 {
         int L = lps[n - 1];
         return s.substring(0, L);
     }
+    
 }
