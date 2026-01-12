@@ -1,5 +1,3 @@
-package Leetcode;
-
 public class q_11 {
     public int maxArea(int[] height) {
         int left = 0;

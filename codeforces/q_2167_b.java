@@ -25,5 +25,6 @@ public class q_2167_b {
         String t = sc.next();
 
         System.out.println(find(s, t));
+        sc.close();
     }
 }

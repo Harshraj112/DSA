@@ -1,5 +1,3 @@
-package Leetcode;
-
 import java.util.Arrays;
 
 public class q_75 {

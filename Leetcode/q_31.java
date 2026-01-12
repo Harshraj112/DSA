@@ -1,5 +1,3 @@
-package Leetcode;
-
 public class q_31 {
     public void nextPermutation(int[] nums) {
         int n = nums.length;

@@ -1,5 +1,3 @@
-package Leetcode;
-
 public class q_151 {
     public String reverseEachWord(String s) {
         String[] words = s.split(" ");

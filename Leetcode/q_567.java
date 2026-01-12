@@ -1,7 +1,3 @@
-package Leetcode;
-
-import java.util.*;
-
 public class q_567 {
     public boolean checkInclusion(String s1, String s2) {
         int n1 = s1.length();

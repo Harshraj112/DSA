@@ -1,4 +1,4 @@
-package Leetcode;
+import java.util.HashMap;
 
 public class q_560 {
     public int subarraySum(int[] nums, int k) {
@@ -11,7 +11,7 @@ public class q_560 {
                 count += map.get(sum - k);
             }
             map.put(sum, map.getOrDefault(sum, 0) + 1);
-            
-            
+        }
+        return count;
     }
 }

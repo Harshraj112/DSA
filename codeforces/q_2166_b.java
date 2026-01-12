@@ -1,3 +1,5 @@
+package codeforces;
+
 import java.util.*;
  
 public class q_2166_b {
@@ -24,6 +26,7 @@ public class q_2166_b {
 
             System.out.println(moves);
         }
+        sc.close();
     }
 }
 

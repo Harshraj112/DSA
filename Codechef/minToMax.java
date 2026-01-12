@@ -33,6 +33,7 @@ public class minToMax {
 
             System.out.println(ops);
         }
+        sc.close();
     }
 }
 

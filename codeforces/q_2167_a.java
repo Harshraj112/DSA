@@ -19,6 +19,7 @@ public class q_2167_a {
                 System.out.println("NO");
             }
         }
+        sc.close();
     }
 
 }

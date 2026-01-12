@@ -1,5 +1,3 @@
-package Leetcode;
-
 import java.util.*;
 
 public class q_125 {
@@ -29,5 +27,6 @@ public class q_125 {
         String s = sc.nextLine();
 
         System.out.println("This given line is " + isPalindrome(s));
+        sc.close();
     }
 }
