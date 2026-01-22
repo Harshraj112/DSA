@@ -19,5 +19,6 @@ public class q_1431 {
         }
 
         return result;
+        
     }
 }
