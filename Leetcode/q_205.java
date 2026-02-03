@@ -20,6 +20,7 @@ public class q_205 {
             mapT[charT] = i + 1;
         }
 
+        
         return true;
     }
     
