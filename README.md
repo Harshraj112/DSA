@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshraj112/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Harshraj112/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Harshraj112/DSA/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/Harshraj112/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshraj112/DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Harshraj112/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Harshraj112/DSA/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Harshraj112/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
