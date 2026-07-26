@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Harshraj112/DSA/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/Harshraj112/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Harshraj112/DSA/tree/master/0322-coin-change) |
+| [0495-teemo-attacking](https://github.com/Harshraj112/DSA/tree/master/0495-teemo-attacking) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Harshraj112/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/Harshraj112/DSA/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
